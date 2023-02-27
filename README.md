@@ -1,5 +1,4 @@
 # RoadMap to become IOS developer
-Road Map to become IOS developer
 ![Development](https://user-images.githubusercontent.com/125242732/221613451-a3b9814c-65f6-45ab-8233-946e7ead908f.png)
 
 1 - Базовые знания
